@@ -6,7 +6,17 @@ www.linkedin.com/in/ashley-edwards-9156211b8
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]
+
+| Project                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Policies & Governance Program        | SOC Automation Lab|
+| Third Party Vendor Risk Assessment                | SOC Automation Lab|
+|  HIPPAA Security Rule Gap Assessment          | GRC  Lab|
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
